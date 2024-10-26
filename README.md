@@ -22,15 +22,13 @@ The **Album Creator** project processes JSON files containing detailed informati
 
 ## Usage
 
-2. Run the `album_creator.cpp`  to generate the HTML file.
-3. Open the generated HTML file in your web browser to view the content.
+1. Run the `album_creator.cpp` file to generate the HTML file.
+2. Open the generated HTML file in your web browser to view the content.
 
 ## Requirements
 
-## notice 
-- although it says 
+- C++ compiler
 
+## Notice
 
-
-
-
+- Although it mentions 96.4% written in HTML, this code is indeed mostly all C++.
